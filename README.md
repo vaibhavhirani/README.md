@@ -1,6 +1,6 @@
 Hi There!
 
-Vaibhav this side, working for SAP as DevOps Engineer and pursuing MTech from BITS.
+I'm working for SAP as DevOps Engineer currently and pursuing MTech from BITS.
 
 After looking at the pipelines 
 I had my
@@ -11,7 +11,7 @@ I had my
 I love going through Medium, Just bing it if you don't know.
 
 <div id="badges">
- Let's connect
+ Let's talk 
  <a href="https://www.linkedin.com/in/vaibhavkumarhirani/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
