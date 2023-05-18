@@ -1,20 +1,10 @@
 Hi There!
 
-I'm working for SAP as DevOps Engineer currently and pursuing MTech from BITS.
+I'm Vaibhav. Currently working for SAP Labs India as DevOps Engineer and pursuing MTech from BITS Pilani.
+Loves to discuss tech, and, music. 
 
-After looking at the pipelines 
-I had my
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/kd9BlRovbPOykLBMqX/giphy.gif" width="500"/>
-</div>
+Computers are never wrong, they do what they are told to. 
 
-I love going through Medium, Just bing it if you don't know.
+I keep myself disciplined rather than motivated.
+ 
 
-<div id="badges">
- Let's talk 
- <a href="https://www.linkedin.com/in/vaibhavkumarhirani/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-Alignment is screwed.
